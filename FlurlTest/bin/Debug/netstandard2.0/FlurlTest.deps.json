@@ -1,0 +1,133 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "824a00258526db19f808d0a518fd54ae85244aa4"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "FlurlTest/1.0.0": {
+        "dependencies": {
+          "Flurl": "2.8.1",
+          "Flurl.Http": "2.4.1",
+          "NETStandard.Library": "2.0.3",
+          "NUnit": "3.11.0"
+        },
+        "runtime": {
+          "FlurlTest.dll": {}
+        }
+      },
+      "Flurl/2.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/Flurl.dll": {
+            "assemblyVersion": "2.8.1.0",
+            "fileVersion": "2.8.1.0"
+          }
+        }
+      },
+      "Flurl.Http/2.4.1": {
+        "dependencies": {
+          "Flurl": "2.8.1",
+          "Newtonsoft.Json": "11.0.2",
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flurl.Http.dll": {
+            "assemblyVersion": "2.4.1.0",
+            "fileVersion": "2.4.1.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "NUnit/3.11.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.11.0.0",
+            "fileVersion": "3.11.0.0"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlurlTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flurl/2.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RI3e1vOfhtZJNSsrA/5aEAenC60Dmf/8ODXdSOJ9kHwS+EjXGMjLt8AZKhCPqKSaykUIV/M3FLBsf9vQgLxTxw==",
+      "path": "flurl/2.8.1",
+      "hashPath": "flurl.2.8.1.nupkg.sha512"
+    },
+    "Flurl.Http/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pt1ErAK5ABGSiWEBFhbV1anEu11ET5yzvD5LkaWZnr7ezVQbcf7lCN++3lGNszth4z6rPFvUx+potvVY6OZSjw==",
+      "path": "flurl.http/2.4.1",
+      "hashPath": "flurl.http.2.4.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "NUnit/3.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BzGk+u02RCrysmLlSzD+okxzMQ8JRF4eFC/qijDJ8Y/FBdTrTkxkQyTFsYkG1o++pr7QpFAE4VDXDqIfZ/gBAg==",
+      "path": "nunit/3.11.0",
+      "hashPath": "nunit.3.11.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+      "path": "system.text.encoding.codepages/4.4.0",
+      "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    }
+  }
+}

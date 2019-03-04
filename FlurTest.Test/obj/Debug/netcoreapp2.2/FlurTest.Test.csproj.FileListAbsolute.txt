@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\FlurTest.Test.deps.json
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\FlurTest.Test.runtimeconfig.json
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\FlurTest.Test.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\FlurTest.Test.dll
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\FlurTest.Test.pdb
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\FlurlTest.dll
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\bin\Debug\netcoreapp2.2\FlurlTest.pdb
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\obj\Debug\netcoreapp2.2\FlurTest.Test.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\obj\Debug\netcoreapp2.2\FlurTest.Test.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\obj\Debug\netcoreapp2.2\FlurTest.Test.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\obj\Debug\netcoreapp2.2\FlurTest.Test.AssemblyInfo.cs
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\obj\Debug\netcoreapp2.2\FlurTest.Test.csproj.CopyComplete
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\obj\Debug\netcoreapp2.2\FlurTest.Test.dll
+C:\Users\gabri\source\repos\FlurlTest\FlurTest.Test\obj\Debug\netcoreapp2.2\FlurTest.Test.pdb

@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\bin\Debug\netstandard2.0\FlurlTest.deps.json
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\bin\Debug\netstandard2.0\FlurlTest.dll
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\bin\Debug\netstandard2.0\FlurlTest.pdb
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\obj\Debug\netstandard2.0\FlurlTest.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\obj\Debug\netstandard2.0\FlurlTest.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\obj\Debug\netstandard2.0\FlurlTest.AssemblyInfo.cs
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\obj\Debug\netstandard2.0\FlurlTest.dll
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\obj\Debug\netstandard2.0\FlurlTest.pdb
+C:\Users\gabri\source\repos\FlurlTest\FlurlTest\obj\Debug\netstandard2.0\FlurlTest.csprojAssemblyReference.cache
